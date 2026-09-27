@@ -1,0 +1,11 @@
+{
+  "pose_rmse": 1.419111371999442,
+  "landmark_rmse": 0.8890140663130616,
+  "final_pose_error": 2.66614563663415,
+  "seed": 42,
+  "steps": 20,
+  "num_landmarks": 5,
+  "world_size": 100.0,
+  "motion_noise": 2.0,
+  "measurement_noise": 2.0
+}
